@@ -1,5 +1,6 @@
 # Daily Leaning
 ## Morning Planning
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 - [ ] Go to School
 - [ ] Learn About [Github Pages]
 - [ ] Improve everday
